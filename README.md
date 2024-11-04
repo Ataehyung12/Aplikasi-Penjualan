@@ -65,7 +65,7 @@ KoreaStyle adalah sebuah website yang menjual berbagai pakaian dan tas dengan ga
 - **assets/**: Berisi file statis seperti CSS, JavaScript, dan gambar yang digunakan dalam tampilan website.
 
 ## Pengembang
-- **Nama:** Muhammad Falah Haqiqi
+- **Nama:** Lailatul Wakhidah
 - **Institut:** Institut Widya Pratama
 
 ## Lisensi
