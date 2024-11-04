@@ -1,6 +1,6 @@
 # KoreaStyle - Website Penjualan Pakaian dan Tas
 
-KoreaStyle adalah sebuah website yang menjual berbagai pakaian dan tas dengan gaya Korea. Website ini dibangun untuk memberikan kemudahan dalam berbelanja online serta memberikan pengalaman yang menarik bagi pengguna dalam memilih produk fashion terkini. Website ini dikembangkan oleh 
+KoreaStyle adalah sebuah website yang menjual berbagai pakaian dan tas dengan gaya Korea. Website ini dibangun untuk memberikan kemudahan dalam berbelanja online serta memberikan pengalaman yang menarik bagi pengguna dalam memilih produk fashion terkini.
 
 
 ## Panduan Penggunaan
