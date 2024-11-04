@@ -1,0 +1,7 @@
+Panduan Penggunaan:
+
+1. Buka website https://laila.sgp.dom.my.id/ (jika ada notifikasi, tekan tanda centang hijau ✅).
+2. Untuk login sebagai member, gunakan link https://laila.sgp.dom.my.id/member atau tekan ikon orang. Username: falah@gmail.com, Password: falah.
+3. Setelah login, Anda dapat melakukan pembelian. Namun, pembelian hanya bisa dilakukan untuk satu produk saja. Jika Anda memilih lebih dari satu produk, akan muncul error.
+4. Untuk login sebagai admin, gunakan link https://laila.sgp.dom.my.id/auth. Username: laila@gmail.com, Password: laila.
+5. Pengaturan dapat dilakukan melalui halaman admin.
