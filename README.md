@@ -14,8 +14,6 @@ KoreaStyle adalah sebuah website yang menjual berbagai pakaian dan tas dengan ga
 - **Back-end:** PHP (CodeIgniter 3)
 - **Database:** MySQL
 
-## Cara Menjalankan Proyek
-
 ### Persyaratan Sistem
 1. **Web Server** (misalnya XAMPP, LAMP, WAMP, dll.)
 2. **PHP** versi 5.6 atau lebih tinggi
